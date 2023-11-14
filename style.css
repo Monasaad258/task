@@ -1,0 +1,174 @@
+
+
+
+section{
+    align-items: center;
+background-color: rgb(13, 13, 77);
+border-radius: 20px;
+width:350px;
+height: 600px;
+margin-top: 70px;
+position: relative;
+box-shadow: 20px;
+
+}
+img{
+
+position: absolute;
+top: 30px;
+left: 35px;
+
+border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+.para h1{
+position: absolute;
+bottom: 265px;
+right: 100px;
+color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.para .p0 {
+position: absolute;
+bottom: 220px;
+color: rgb(143, 128, 128);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+right: 35px;
+font-size: 18px;
+}
+.para .p1 {
+position: absolute;
+bottom:190px ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+   color: rgb(143,128,128); 
+   right: 167px;
+font-size: 18px;
+
+}
+.para h1:hover {
+    color: aqua;
+
+
+
+}
+
+
+
+
+
+
+
+.left{
+
+margin-top: 300px;
+position: relative;
+top: 410px;
+right: 30px;
+position: relative;
+font-size: 20px;
+color: aqua;
+}
+.right{
+
+    margin-top: 300px;
+    position: relative;
+    top: 410px;
+    left: 50px;
+    color:aliceblue;
+    position: relative;
+    font-size: 20px;
+    color:rgb(111, 111, 111);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.new{
+    position: relative;
+    top: 440px;
+    margin-left: 27px;
+    margin-right: 27px;
+    border-width: .5px;
+    border-style: solid none none none;
+    border-color:rgb(133, 132, 132) ;
+
+
+}
+
+
+
+
+.images img{
+
+border: 2px double white;
+border-radius: 25px;
+
+}
+
+
+
+.images {
+position: relative;
+top: 350px;
+align-items: center;
+display: flex;
+justify-content: center;
+
+
+}
+ .images img{
+
+    border: 2px double white;
+    border-radius: 25px;
+    margin-right: 100px;
+    margin-top: 80px;
+    }
+
+.spa{
+color:white;
+margin-left: 30px;
+padding-left: 5px;
+margin-top: 123px;
+margin-right: 20px;
+position: relative;
+right: 20px;
+}
+
+
+
+
+.span1{
+    position: relative;
+    left: 10px;
+font-size: 18px;
+margin-top: 125px;
+margin-left: 30px;
+padding-left: 20px;
+color: rgb(155, 145, 145);
+opacity: .5;
+
+
+}
+
+
+
+
+
